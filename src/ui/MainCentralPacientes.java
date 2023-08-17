@@ -134,5 +134,9 @@ public class MainCentralPacientes {
         return input;
     }
 
+    public void feature3(){
+        System.out.println("Cambio Karen");
+    }
+
 
 }
