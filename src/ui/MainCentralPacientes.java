@@ -134,5 +134,14 @@ public class MainCentralPacientes {
         return input;
     }
 
+    public void feature4(){
+        System.out.println("Hola, soy isa");
+    }
+
+    public void feature2(){
+        System.out.println("Hola, soy nicho");
+    }
+
+
 
 }
