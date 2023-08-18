@@ -134,5 +134,9 @@ public class MainCentralPacientes {
         return input;
     }
 
+	 public void cambio1(){
+        System.out.println("cambio samuel");
+    }
+	
 
 }
